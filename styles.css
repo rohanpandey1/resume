@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514e;
+}
+h1 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  /* width: 20%;
+  margin:0 auto ; */
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  color: #006a71;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  margin-top: 10px;
+  color: #006a71;
+  font-weight: bolder;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #006a71;
+} 
+.top {
+  background-color: #ffe5b9;
+  position: relative;
+  padding-top: 70px;
+}
+.middle {
+  margin: 100px 0;
+}
+.bottom {
+  background-color: #ffe5b9;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-top: 70px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 270px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+.footer-link {
+  color: #383e56;
+}
+
+p {
+  line-height: 1.5;
+}
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.profile {
+  width: 50%;
+  margin: auto;
+  line-height: 1.5;
+}
+.profile-pic {
+  width: 25%;
+}
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  border-style: dotted none none;
+  
+  border-color: rgba(128, 128, 128, 0.788);
+  border-width: 5px;
+  margin: 70px auto;
+  width: 5%;
+}
+.education{
+  width: 40%;
+  margin: 40px auto;
+}
+
+a{
+  margin: 30px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+.copyright{
+  color:#5eaaa8;
+  font-size: 0.75;
+}
