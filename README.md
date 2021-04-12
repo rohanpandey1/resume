@@ -1,2 +1,2 @@
-# resume
-My resume website
+# Resume
+My resume website created using Html and CSS.
